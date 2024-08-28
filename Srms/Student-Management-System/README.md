@@ -1,17 +1,7 @@
-<h1 align="center">Hi 👋, I'm Imam Hosen Emon</h1>
+<h1 align="center">Hi 👋, I'm Pinky Sasmal</h1>
 <h3 align="center">A passionate full stack web developer from Bangladesh</h3>
 
-- 🔭 I’m currently working on [Customer Relationship Management Software](https://github.com/imamhosen737/Customer-Relationship-Management-CRM-.git)
-
-- 🌱 I’m currently learning **Laravel, React**
-
-- 🤝 I’m looking for help with [Buying House Website](http://mrtex.com.bd/)
-
-- 👨‍💻 All of my projects are available at [https://github.com/imamhosen737](https://github.com/imamhosen737)
-
-- 💬 Ask me about **PHP, Laravel, MySql, CodeIgniter, React JS, Javascript**
-
-- 📫 How to reach me **imamhosen737@gmail.com**
+- 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
