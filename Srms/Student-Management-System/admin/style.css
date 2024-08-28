@@ -1,0 +1,35 @@
+.error{
+    color: red;
+    font: 10px;
+    font-family: 'Courier New', Courier, monospace;
+    font-style: unset;
+}
+#u{
+ color: yellowgreen;
+ background: whitesmoke;
+}
+#sl{
+    color: yellowgreen;
+ background: whitesmoke; 
+}
+#l{
+   color: rgb(26, 128, 0); 
+}
+
+.content{
+    min-height: 570px;
+}
+
+.footer-area{
+    background: #464e53;
+    text-align: center;
+    padding: 20px 0;
+    color: #fff;
+    margin-top: 20px;
+}
+.footer-area p{
+    margin: 0;
+}
+#tt{
+    text-align: center;
+}
